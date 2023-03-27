@@ -32,7 +32,7 @@ const Home = () => {
           </div>
         </div>
 
-        <div>
+        <div className="px-9">
           <img
             src={HeroImage}
             alt="my profile"

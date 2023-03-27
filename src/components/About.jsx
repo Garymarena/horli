@@ -8,40 +8,42 @@ const About = () => {
     >
       <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
         <div className="pb-8">
-          <p className="text-4x1 font-bold inline border-b-4 border-gray-500">
-            Acerca
+          <p className="text-xl font-bold inline border-b-4 border-gray-500">
+            Habilidades
           </p>
         </div>
 
-        <p className="text-xl mt-20">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus
-          vitae nibh ac enim consequat accumsan ut et lorem. Aenean bibendum
-          aliquam dictum. Nullam hendrerit enim sed tellus maximus, in accumsan
-          turpis sodales. Proin tempus dictum augue, at imperdiet ligula
-          ullamcorper ut. Aenean ornare sem eu ultricies faucibus. Sed
-          consequat, tortor non vulputate elementum, elit risus maximus felis,
-          eu dignissim massa diam ac tellus. Nunc finibus imperdiet lectus, sit
-          amet condimentum dui. Etiam in metus bibendum, dignissim arcu sit
-          amet, hendrerit felis. In finibus tortor quis nulla eleifend euismod.
-          Integer interdum lorem et odio tempus, in pretium enim mollis. Nulla
-          sit amet viverra turpis. Phasellus eleifend convallis finibus.
-        </p>
+        <ul className="text-xl mt-5">
+          <li>Pensamiento crítico.</li>
+          <li>Motivación e inspiración.</li>
+          <li>Resolución de problemas.</li>
+        </ul>
 
         <br />
 
-        <p className="text-xl">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus
-          vitae nibh ac enim consequat accumsan ut et lorem. Aenean bibendum
-          aliquam dictum. Nullam hendrerit enim sed tellus maximus, in accumsan
-          turpis sodales. Proin tempus dictum augue, at imperdiet ligula
-          ullamcorper ut. Aenean ornare sem eu ultricies faucibus. Sed
-          consequat, tortor non vulputate elementum, elit risus maximus felis,
-          eu dignissim massa diam ac tellus. Nunc finibus imperdiet lectus, sit
-          amet condimentum dui. Etiam in metus bibendum, dignissim arcu sit
-          amet, hendrerit felis. In finibus tortor quis nulla eleifend euismod.
-          Integer interdum lorem et odio tempus, in pretium enim mollis. Nulla
-          sit amet viverra turpis. Phasellus eleifend convallis finibus.
-        </p>
+        <div className="pb-8 text-end">
+          <p className="text-xl font-bold inline border-b-4 border-gray-500">
+            Objetivos
+          </p>
+        </div>
+
+        <ul className="text-xl text-end">
+          <li>
+            Ser referencia en el área de desarrollo de aplicaciónes web/moviles
+          </li>
+        </ul>
+
+        <div className="pb-8">
+          <p className="text-xl font-bold inline border-b-4 border-gray-500">
+            Intereses
+          </p>
+        </div>
+
+        <ul className="text-xl mt-5">
+          <li>Crecimiento personal.</li>
+          <li>Música.</li>
+          <li>Tecnologías.</li>
+        </ul>
       </div>
     </div>
   );
