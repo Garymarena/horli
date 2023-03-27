@@ -36,12 +36,14 @@ const Portfolio = () => {
     >
       <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
         <div className="pb-8">
-          <p className="text-4x1 font-bold inline border-b-4 border-gray-500">
-            Mercado ideal
-          </p>
-          <p className="py-6">
-            Agencias de bienes raices, clinicas en general, restaurantes,
-            personas que deseen hacer una tienda en línea.{" "}
+          <h2 className="text-xl font-bold inline border-b-4 border-gray-500">
+            Qué referencias puedes darme?
+          </h2>
+          <p className="py-6 text">
+            Empresarios que deseen una aplicación para su negocio, cualquier
+            persona que quiera una tienda en línea, empresas que quieran
+            auomatizar procesos en su negocio, personas que necesiten una
+            aplicación personal para su negocio.
           </p>
         </div>
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm:px-0">
