@@ -4,11 +4,13 @@ import SocialLinks from "./components/SocialLinks";
 import About from "./components/About";
 import Experience from "./components/Experience";
 import Portfolio from "./components/Portfolio";
+//import Hero from "./components/Hero";
 
 function App() {
   return (
     <div>
       <NavBar />
+      {/* <Hero /> */}
       <Home />
       <About />
       <Portfolio />
