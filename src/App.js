@@ -4,6 +4,7 @@ import SocialLinks from "./components/SocialLinks";
 import About from "./components/About";
 import Experience from "./components/Experience";
 import Portfolio from "./components/Portfolio";
+//import Skills from "./components/Skills";
 //import Hero from "./components/Hero";
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
       <NavBar />
       {/* <Hero /> */}
       <Home />
+      {/* <Skills /> */}
       <About />
       <Portfolio />
       <Experience />
