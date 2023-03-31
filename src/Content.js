@@ -95,28 +95,25 @@ export const content = {
     ],
     icon: MdArrowForward,
   },
-  /* services: {
+  services: {
     title: "Services",
     subtitle: "WHAT I OFFER",
     service_content: [
       {
         title: "Web Development",
         para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
-        logo: services_logo1,
       },
       {
         title: "ui / ux DESIGNING",
         para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
-        logo: services_logo2,
       },
       {
         title: "PhotoShop Editing",
         para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
-        logo: services_logo3,
       },
     ],
   },
-  Projects: {
+  /*   Projects: {
     title: "Projects",
     subtitle: "MY CREATION",
     image: person_project,
@@ -134,8 +131,8 @@ export const content = {
         image: project3,
       },
     ],
-  },
-  Testimonials: {
+  }, */
+  /*   Testimonials: {
     title: "Testimonials",
     subtitle: "MY CLIENT REVIEWS",
     testimonials_content: [
@@ -164,8 +161,8 @@ export const content = {
         name: "ROBBIN",
       },
     ],
-  },
-  Hireme: {
+  }, */
+  /*   Hireme: {
     title: "Hire Me",
     subtitle: "FOR YOUR PROJECTS",
     image1: Hireme_person,
