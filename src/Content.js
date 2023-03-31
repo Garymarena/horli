@@ -96,20 +96,19 @@ export const content = {
     icon: MdArrowForward,
   },
   services: {
-    title: "Services",
-    subtitle: "WHAT I OFFER",
+    title: "CONECTOR PERFECTO",
     service_content: [
       {
-        title: "Web Development",
-        para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+        title: "Empresarios",
+        para: "Buscamos a todo aquel empresario que deseé implementar una aplicación para automatizar sus servicos.",
       },
       {
-        title: "ui / ux DESIGNING",
-        para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+        title: "Agencias",
+        para: "Todo tipo de agencías que quieran un sistema personalizado para manejo de ventas, control de sus usuarios, campañas de mail y marketing en un mismo lugar.",
       },
       {
-        title: "PhotoShop Editing",
-        para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+        title: "Start ups",
+        para: "Qué requieran de un equipó de desarrollo para crear su aplicación y llevarla a todos sus usuarios.",
       },
     ],
   },
