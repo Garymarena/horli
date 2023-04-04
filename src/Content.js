@@ -64,32 +64,26 @@ export const content = {
     skills_content: [
       {
         name: "HTML",
-        para: "Lorem ipsum text  dummy",
         logo: html,
       },
       {
         name: "CSS",
-        para: "Lorem ipsum text  dummy",
         logo: css,
       },
       {
         name: "Java Script",
-        para: "Lorem ipsum text  dummy",
         logo: javascript,
       },
       {
         name: "React js",
-        para: "Lorem ipsum text  dummy",
         logo: react,
       },
       {
         name: "Tailwind",
-        para: "Lorem ipsum text  dummy",
         logo: tailwind,
       },
       {
         name: "Github",
-        para: "Lorem ipsum text  dummy",
         logo: github,
       },
     ],
@@ -107,7 +101,7 @@ export const content = {
         para: "Todo tipo de agencías que quieran un sistema personalizado para manejo de ventas, control de sus usuarios, campañas de mail y marketing en un mismo lugar.",
       },
       {
-        title: "Start ups",
+        title: "Startups",
         para: "Qué requieran de un equipó de desarrollo para crear su aplicación y llevarla a todos sus usuarios.",
       },
     ],
