@@ -48,7 +48,7 @@ const Skills = () => {
         </div>
         <br />
         <ul className="list-decimal px-4 font-Poppins sm:text-sm text-xs !leading-7">
-          <li>Lorem ipsum dolor sit, amet consectetur adipisicing.</li>
+          <li>HOLA.</li>
           <li>Lorem ipsum dolor sit, ame.</li>
           <li>Lorem ipsum dolor sit, amet consectetur</li>
           <li>
@@ -72,9 +72,7 @@ const Skills = () => {
         <h2 className="title" data-aos="fade-down">
           {skills.title}
         </h2>
-        <h4 className="subtitle" data-aos="fade-down">
-          {skills.subtitle}
-        </h4>
+
         <br />
         <div className="flex flex-wrap gap-4 justify-center">
           {skills.skills_content.map((skill, i) => (
@@ -86,13 +84,7 @@ const Skills = () => {
                relative group w-full flex items-center
                 gap-5 p-5 max-w-sm rounded-md border-2 border-slate-200"
             >
-              <div>
-                <img
-                  src={skill.logo}
-                  alt="..."
-                  className="w-10 group-hover:scale-125 duration-200"
-                />
-              </div>
+              <div></div>
               <div>
                 <h6>{skill.name}</h6>
                 <p className="italic">{skill.para}</p>

@@ -1,14 +1,6 @@
 // import main image
 import hero from "./assets/hero.png";
 
-// import images
-import html from "./assets/html.png";
-import css from "./assets/css.png";
-import javascript from "./assets/javascript.png";
-import github from "./assets/github.png";
-import tailwind from "./assets/tailwind.png";
-import react from "./assets/react.png";
-
 // import icons from react-icons
 import { GrMail } from "react-icons/gr";
 import { MdArrowForward, MdCall } from "react-icons/md";
@@ -59,32 +51,22 @@ export const content = {
     ],
   },
   skills: {
-    title: "Skills",
-    subtitle: "MY TOP SKILLS",
+    title: "HORLI",
     skills_content: [
       {
-        name: "HTML",
-        logo: html,
+        name: "Habilidades",
       },
       {
-        name: "CSS",
-        logo: css,
+        name: "Objetivos",
       },
       {
-        name: "Java Script",
-        logo: javascript,
+        name: "Redes",
       },
       {
-        name: "React js",
-        logo: react,
+        name: "Logros",
       },
       {
-        name: "Tailwind",
-        logo: tailwind,
-      },
-      {
-        name: "Github",
-        logo: github,
+        name: "Intereses",
       },
     ],
     icon: MdArrowForward,
