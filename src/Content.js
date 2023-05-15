@@ -1,5 +1,5 @@
 // import main image
-import hero from "./assets/hero.png";
+import hero2 from "./assets/hero.png";
 
 // import icons from react-icons
 import { GrMail } from "react-icons/gr";
@@ -38,7 +38,7 @@ export const content = {
     firstName: "Gary",
     LastName: "ARELLANO",
     btnText: "Hire Me",
-    image: hero,
+    image: hero2,
     hero_content: [
       {
         count: "5+",
