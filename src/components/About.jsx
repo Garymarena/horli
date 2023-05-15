@@ -8,7 +8,7 @@ const About = () => {
     >
       <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
         <div className="pb-8">
-          <p className="text-xl font-bold inline border-b-4 border-gray-500">
+          <p className="text-xl font-bold inline border-b-4 bg-orange-400">
             Habilidades
           </p>
         </div>
@@ -22,7 +22,7 @@ const About = () => {
         <br />
 
         <div className="pb-8 text-end">
-          <p className="text-xl font-bold inline border-b-4 border-gray-500">
+          <p className="text-xl font-bold inline border-b-4 bg-orange-400">
             Objetivos
           </p>
         </div>
@@ -34,7 +34,7 @@ const About = () => {
         </ul>
 
         <div className="pb-8">
-          <p className="text-xl font-bold inline border-b-4 border-gray-500">
+          <p className="text-xl font-bold inline border-b-4 bg-orange-400">
             Intereses
           </p>
         </div>
